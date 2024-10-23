@@ -7,12 +7,7 @@ The Supply Chain View report analyzes supply chain operations, including invento
 It helps supply chain managers identify bottlenecks and streamline processes for better efficiency.
 he Sales View report provides a detailed analysis of sales performance, including revenue trends, product sales distribution, and customer segmentation. 
 It helps sales teams identify growth opportunities and improve sales strategies.
-You can check my live dashboard on below link
+You can check my live dashboard on below link:
 
-"C:\Users\prajw\OneDrive\Business_Insight_360.pbix"
-"C:\Users\prajw\Dropbox\Business_Insight_360.pbix"
-## Power BI Report
-
-You can download the PBIX file from [Google Drive] (C:\Users\prajw\Dropbox\Business_Insight_360.pbix)
-[Link Text](https://your-link.com)
+https://www.dropbox.com/scl/fi/4xs5zjg4rgv1zwp0cc1wf/Business_Insight_360.pbix?rlkey=tq52m9bef6l18o7srfwu5cxpw&st=vxquqfcq&dl=0
 
