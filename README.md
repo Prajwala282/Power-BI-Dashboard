@@ -9,4 +9,4 @@ he Sales View report provides a detailed analysis of sales performance, includin
 It helps sales teams identify growth opportunities and improve sales strategies.
 You can check my live dashboard on below link:
 
-(https://www.dropbox.com/scl/fi/4xs5zjg4rgv1zwp0cc1wf/Business_Insight_360.pbix?rlkey=tq52m9bef6l18o7srfwu5cxpw&st=16jnfgrz&dl=0)
+https://www.dropbox.com/scl/fi/4xs5zjg4rgv1zwp0cc1wf/Business_Insight_360.pbix?rlkey=tq52m9bef6l18o7srfwu5cxpw&st=16jnfgrz&dl=0
