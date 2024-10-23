@@ -13,4 +13,4 @@ You can check my live dashboard on below link
 "C:\Users\prajw\Dropbox\Business_Insight_360.pbix"
 ## Power BI Report
 
-You can download the PBIX file from (C:\Users\prajw\Dropbox\Business_Insight_360.pbix).
+You can download the PBIX file from [Google Drive] (C:\Users\prajw\Dropbox\Business_Insight_360.pbix)
