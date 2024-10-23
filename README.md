@@ -10,3 +10,7 @@ It helps sales teams identify growth opportunities and improve sales strategies.
 You can check my live dashboard on below link
 
 "C:\Users\prajw\OneDrive\Business_Insight_360.pbix"
+"C:\Users\prajw\Dropbox\Business_Insight_360.pbix"
+## Power BI Report
+
+You can download the PBIX file from [Google Drive](https://drive.google.com/your-file-link).
